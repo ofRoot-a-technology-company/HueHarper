@@ -19,7 +19,7 @@
                 background-color: white;
             }
             footer {
-                background-color: black;
+                background-color: white;
             }
         </style>
 	</head>
