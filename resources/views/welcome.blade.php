@@ -168,7 +168,7 @@
                 "email": "hueharper@gmail.com",
                 "url": "http://www.hueharper.com",
                 "sameAs": [
-                    "https://www.facebook.com/profile.php?id=61550591346858&mibextid=LQQJ4d",
+                    "https://www.facebook.com/lizzi.london/",
                     "https://www.instagram.com/lizzi_london?igsh=YmEzMnBhOXptc3ow/",
                 ],
                 "openingHours": [
