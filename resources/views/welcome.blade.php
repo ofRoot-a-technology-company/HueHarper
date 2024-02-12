@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Hue Harper | Home Services Company</title>
+		<title>Hue Harper | A Fashion Design Company</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="description" content="Hue Harper is a bespoke fashion design company, with a focus on sustainable development.">
@@ -169,7 +169,7 @@
                 "url": "http://www.hueharper.com",
                 "sameAs": [
                     "https://www.facebook.com/profile.php?id=61550591346858&mibextid=LQQJ4d",
-                    "https://www.instagram.com/metroarearemovalservices/",
+                    "https://www.instagram.com/lizzi_london?igsh=YmEzMnBhOXptc3ow/",
                 ],
                 "openingHours": [
                     "Mo-Su 09:00-17:00"
